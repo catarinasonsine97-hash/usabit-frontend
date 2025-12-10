@@ -1,0 +1,16 @@
+usabit-frontend/
+  package.json
+  index.html
+  vite.config.js
+  src/
+    main.jsx
+    App.jsx
+    api.js
+    context/
+      AuthContext.jsx
+    pages/
+      LoginPage.jsx
+      DashboardPage.jsx
+    components/
+      TaskForm.jsx
+      TaskList.jsx
